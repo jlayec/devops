@@ -2,6 +2,6 @@
 
 echo "Hello Codir Bizz!";
 
-phpinfo();
+;phpinfo();
 
 ?>
